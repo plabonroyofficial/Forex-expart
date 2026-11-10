@@ -1,0 +1,6 @@
+{
+  "name": "ForexPulse AI",
+  "description": "Professional Forex trading terminal with interactive candlestick charts, 100+ indicators, SMC order block engine, AI confluence signals, paper trading simulator, and economic news shield.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
